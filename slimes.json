@@ -1,0 +1,64 @@
+[
+
+    {
+        "name": "Pink Slime",
+        "type": "Docile",
+        "diet": "Everything",
+        "favfood": "None",
+        "favtoy": "Beach Ball",
+        "dateadded": "17/12/2015",
+        "updateadded": "0.2.0"
+    },
+
+    {
+        "name": "Rock Slime",
+        "type": "Harmful",
+        "diet": "Veggie",
+        "favfood": "Heart Beet",
+        "favtoy": "Big Rock",
+        "dateadded": "17/12/2015",
+        "updateadded": "0.2.0"
+    },
+
+    {
+        "name": "Tabby Slime",
+        "type": "Docile",
+        "diet": "Meat",
+        "favfood": "Stony Hen",
+        "favtoy": "Yarn Ball",
+        "dateadded": "17/12/2015",
+        "updateadded": "0.2.0"
+
+    },
+
+    {
+        "name": "Quantum Slime",
+        "type": "Docile",
+        "diet": "Fruit",
+        "favfood": "Phase Lemon",
+        "favtoy": "Puzzle Cube",
+        "dateadded": "06/03/2017",
+        "updateadded": "0.5.0"
+    
+    },
+
+    {
+        "name": "Rad Slime",
+        "type": "Harmful",
+        "diet": "Veggie",
+        "favfood": "Oca Oca",
+        "favtoy": "Power Cell",
+        "dateadded": "17/12/2015",
+        "updateadded": "0.2.0"
+    },
+
+    {
+        "name": "Mosaic Slime",
+        "type": "Harmful",
+        "diet": "Veggie",
+        "favfood": "Silver Parsnip",
+        "favtoy": "Disco Ball",
+        "dateadded": "12/06/2017",
+        "updateadded": "0.6.0"
+    }
+]
